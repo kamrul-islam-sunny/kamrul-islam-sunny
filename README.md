@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I’m a Junior Frontend Developer and Web Designer, dedicated to building user-friendly websites and applications. Passionate about modern web technologies and clean UI design, I work with React, Tailwind CSS, and Firebase to create seamless and visually appealing experiences. 🚀</p>
+<p align="left">I’m a <b>Junior Frontend Developer</b> and <b>Web Designer</b>, dedicated to building user-friendly websites and applications. Passionate about modern web technologies and clean UI design, I work with React, Tailwind CSS, and Firebase to create seamless and visually appealing experiences. 🚀</p>
 
 ###
 
