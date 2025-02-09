@@ -24,30 +24,13 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
-
+🚀 Skills
+🖥️ Frontend Development
+<div align="left"> <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /> </div>
+🛠️ Backend Development
+<div align="left"> <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" /> </div>
+🔧 Tools & Others
+<div align="left"> <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" /> </div>
 ###
 
 <div align="center">
@@ -58,22 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamrul-islam-sunny&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2" height="170" alt="languages graph"  />
 </div>
 
-
-###
-
-
-## Frontend Skills
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-## Backend Skills
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## Tools
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ###
 
