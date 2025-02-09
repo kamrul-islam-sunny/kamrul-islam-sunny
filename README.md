@@ -72,4 +72,4 @@
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrul-islam-sunny)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=kamrul-islam-sunny&theme=radical&hide_border=true&border_radius=7.2)](https://git.io/streak-stats)
