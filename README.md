@@ -77,7 +77,7 @@
 </div>
 
 ###
-
+<h1>My GitHub Stats 📊</h1>
 <div align="center">
    <img src="https://streak-stats.demolab.com?user=kamrul-islam-sunny&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=7&order=3" height="250" alt="streak graph"  />
 <div/>
