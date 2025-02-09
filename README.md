@@ -73,3 +73,12 @@
 
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=kamrul-islam-sunny&theme=radical&hide_border=true&border_radius=7.2)](https://git.io/streak-stats)
+
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamrul-islam-sunny&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul-islam-sunny&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamrul-islam-sunny)
+
+
