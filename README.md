@@ -72,7 +72,7 @@
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=kamrul-islam-sunny&theme=radical&hide_border=true&border_radius=7.2)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=kamrul-islam-sunny&theme=radical&hide_border=true&border_radius=7&card_width=500)](https://git.io/streak-stats)
 ###
 
 <div align="center">
