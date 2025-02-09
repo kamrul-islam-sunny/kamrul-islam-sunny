@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-   <img src="https://streak-stats.demolab.com?user=kamrul-islam-sunny&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=7&order=3" height="200" alt="streak graph"  />
+   <img src="https://streak-stats.demolab.com?user=kamrul-islam-sunny&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=7&order=3" height="250" alt="streak graph"  />
 <div/>
 <div >
   <img src="https://github-readme-stats.vercel.app/api?username=kamrul-islam-sunny&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
