@@ -72,10 +72,10 @@
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=kamrul-islam-sunny&theme=radical&hide_border=true&border_radius=7&card_width=500)](https://git.io/streak-stats)
-###
-
 <div align="center">
+   <img src="https://streak-stats.demolab.com?user=kamrul-islam-sunny&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=7&order=3" height="300" alt="streak graph"  />
+<div/>
+<div >
   <img src="https://github-readme-stats.vercel.app/api?username=kamrul-islam-sunny&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamrul-islam-sunny&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2" height="170" alt="languages graph"  />
 </div>
