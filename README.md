@@ -73,12 +73,10 @@
 
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=kamrul-islam-sunny&theme=radical&hide_border=true&border_radius=7.2)](https://git.io/streak-stats)
+###
 
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamrul-islam-sunny&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul-islam-sunny&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamrul-islam-sunny)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamrul-islam-sunny&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamrul-islam-sunny&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2" height="180" alt="languages graph"  />
+</div>
 
