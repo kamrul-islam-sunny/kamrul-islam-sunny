@@ -18,9 +18,10 @@
   <li>📚 <strong>Currently learning:</strong> Next.js, TypeScript, ShadCN</li>
   <li>🎯 <strong>Goal:</strong> Improve my skills in modern web development and create user-friendly applications.</li>
   <li>🎲 <strong>Fun Fact:</strong> I absolutely love drinking coffee and playing sports. They keep me energized and refreshed!</li>
-  - 📫 How to reach me: [kamrulislamsunny37@gmail.com](mailto:kamrulislamsunny37@gmail.com)
+  <li>📫 <strong>Fun Fact:</strong> How to reach me: [kamrulislamsunny37@gmail.com](mailto:kamrulislamsunny37@gmail.com)</li>
 </ul>
 
+- 📫 How to reach me: [joy600508@gmail.com](mailto:joy600508@gmail.com)
 
 
 ###
