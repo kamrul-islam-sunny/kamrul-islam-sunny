@@ -18,6 +18,11 @@
 
 <p align="left">🖥️ Frontend Developer & Web Designer<br>📚 Currently learning: Next.js, TypeScript, ShadCN<br>🎯 Goal: Improve my skills in modern web development and create user-friendly applications.<br>🎲 Fun Fact:  I absolutely love drinking coffee and playing sports. They keep me energized and refreshed!</p>
 
+
+###
+
+<h2 align="left">I code with</h2>
+
 ###
 
 <div align="center">
