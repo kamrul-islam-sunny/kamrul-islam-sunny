@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🖥️ Frontend Developer & Web Designer<br>📚 Currently learning: Next.js, TypeScript, ShadCN<br>🎯 Goal: Improve my skills in modern web development and create user-friendly applications.<br>🎲 Fun Fact:  I absolutely love drinking coffee and playing sports. They keep me energized and refreshed!</p>
+<p align="left">🖥️ Frontend Developer & Web Designer<br>📚 Currently learning: Next.js, TypeScript, ShadCN<br>🎯 Goal: Improve my skills in modern web development and create user-friendly applications.<br>🎲 Fun Fact:  I absolutely love drinking coffee and playing sports. They keep me energized and refreshed! <br> 📫 How to reach me kamrulislamsunny37@gmail.com</p>
 
 
 ###
