@@ -24,10 +24,6 @@
 
 ###
 
-<h2 align="left">🖥️ Frontend Development</h2>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -42,10 +38,6 @@
 
 ###
 
-<h2 align="left">🛠️ Backend Development</h2>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -53,10 +45,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
-
-###
-
-<h2 align="left">🔧 Tools & Others</h2>
 
 ###
 
