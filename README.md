@@ -11,13 +11,16 @@
 <p align="left">I’m a <b>Junior Frontend Developer</b> and <b>Web Designer</b>, dedicated to building user-friendly websites and applications. Passionate about modern web technologies and clean UI design, I work with <b>React</b>, <b>Tailwind CSS</b>, and Firebase to create seamless and visually appealing experiences. 🚀</p>
 
 ###
-
-<h2 align="left">About me</h2>
-
+<h2 align="left">About Me</h2>
 ###
+<ul>
+  <li>🖥️ <strong>Frontend Developer & Web Designer</strong></li>
+  <li>📚 <strong>Currently learning:</strong> Next.js, TypeScript, ShadCN</li>
+  <li>🎯 <strong>Goal:</strong> Improve my skills in modern web development and create user-friendly applications.</li>
+  <li>🎲 <strong>Fun Fact:</strong> I absolutely love drinking coffee and playing sports. They keep me energized and refreshed!</li>
+</ul>
 
-<p align="left">🖥️ Frontend Developer & Web Designer<br>📚 Currently learning: Next.js, TypeScript, ShadCN<br>🎯 Goal: Improve my skills in modern web development and create user-friendly applications.<br>🎲 Fun Fact:  I absolutely love drinking coffee and playing sports. They keep me energized and refreshed! <br> </p>
-## 📫 How to reach me (mailto:kamrulislamsunny37@gmail.com)
+
 
 ###
 
